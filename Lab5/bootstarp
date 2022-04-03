@@ -1,1 +1,38 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style1.css">
+    <title>flexbox layout</title>
+</head>
+<body>
+    <div class="container">
+        <div class="cards">
+            <div class="card-img">
+                <img src="sea.jpg" alt="sea">
+            </div>
+            <div class="card-body">
+                <h2>Sea</h2>
+                <p>The sea moderates Earth's climate and has important roles in the water cycle, carbon cycle, and nitrogen cycle. Humans harnessing and studying the sea have been recorded since ancient times, and evidenced well into prehistory, while its modern scientific study is called oceanography. The most abundant solid dissolved in seawater is sodium chloride. The water also contains salts of magnesium, calcium, potassium, and mercury, amongst many other elements, some in minute concentrations. Salinity varies widely, being lower near the surface and the mouths of large rivers and higher in the depths of the ocean; however, the relative proportions of dissolved salts vary little across the oceans. Winds blowing over the surface of the sea produce waves, which break when they enter the shallow water. </p>
+            </div>
+            <div class="card-footer">
+                <button>Read More</button>
+            </div>
+        </div>
+        <div class="cards">
+            <div class="card-img">
+                <img src="mountain.jpeg" alt="mountain">
+            </div>
+            <div class="card-body">
+                <h2>Mountain</h2>
+                <p>mountain, landform that rises prominently above its surroundings, generally exhibiting steep slopes, a relatively confined summit area, and considerable local relief. Mountains generally are understood to be larger than hills, but the term has no standardized geological meaning. Very rarely do mountains occur individually</p>
+            </div>
+            <div class="card-footer">
+                <button>Read More</button>
+            </div>
+        </div>
+     
+</body>
+</html>
